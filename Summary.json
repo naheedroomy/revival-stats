@@ -1,0 +1,66 @@
+[
+  {
+    "Metric": "Total Players",
+    "Value": 42.0
+  },
+  {
+    "Metric": "Total Matches",
+    "Value": 14.0
+  },
+  {
+    "Metric": "Average Match Duration (minutes)",
+    "Value": 37.3
+  },
+  {
+    "Metric": "Total Rounds Played",
+    "Value": 277.0
+  },
+  {
+    "Metric": "Total Kills",
+    "Value": 1986.0
+  },
+  {
+    "Metric": "Total Deaths",
+    "Value": 1996.0
+  },
+  {
+    "Metric": "Total Headshots",
+    "Value": 1507.0
+  },
+  {
+    "Metric": "Total Damage Dealt",
+    "Value": 370012.0
+  },
+  {
+    "Metric": "Total Abilities Used",
+    "Value": 6627.0
+  },
+  {
+    "Metric": "Total Ultimates Cast",
+    "Value": 288.0
+  },
+  {
+    "Metric": "Total C Ability Casts",
+    "Value": 1711.0
+  },
+  {
+    "Metric": "Total Q Ability Casts",
+    "Value": 1568.0
+  },
+  {
+    "Metric": "Total E Ability Casts",
+    "Value": 3060.0
+  },
+  {
+    "Metric": "Total Spike Plants",
+    "Value": 174.0
+  },
+  {
+    "Metric": "Total Defuses",
+    "Value": 49.0
+  },
+  {
+    "Metric": "Defuse Success Rate (%)",
+    "Value": 28.2
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "Agent": "Raze",
+    "Picks": 17,
+    "Win Rate %": 52.9,
+    "Total Kills": 259,
+    "Avg Kills": 15.2,
+    "K/D": 0.96,
+    "Total Damage": 51726
+  },
+  {
+    "Agent": "Fade",
+    "Picks": 13,
+    "Win Rate %": 61.5,
+    "Total Kills": 168,
+    "Avg Kills": 12.9,
+    "K/D": 0.94,
+    "Total Damage": 30798
+  },
+  {
+    "Agent": "Omen",
+    "Picks": 10,
+    "Win Rate %": 50.0,
+    "Total Kills": 139,
+    "Avg Kills": 13.9,
+    "K/D": 0.94,
+    "Total Damage": 25891
+  },
+  {
+    "Agent": "Skye",
+    "Picks": 10,
+    "Win Rate %": 60.0,
+    "Total Kills": 161,
+    "Avg Kills": 16.1,
+    "K/D": 1.15,
+    "Total Damage": 28030
+  },
+  {
+    "Agent": "Chamber",
+    "Picks": 9,
+    "Win Rate %": 66.7,
+    "Total Kills": 154,
+    "Avg Kills": 17.1,
+    "K/D": 1.23,
+    "Total Damage": 27889
+  },
+  {
+    "Agent": "Killjoy",
+    "Picks": 8,
+    "Win Rate %": 75.0,
+    "Total Kills": 112,
+    "Avg Kills": 14.0,
+    "K/D": 1.15,
+    "Total Damage": 21884
+  },
+  {
+    "Agent": "Viper",
+    "Picks": 8,
+    "Win Rate %": 62.5,
+    "Total Kills": 107,
+    "Avg Kills": 13.4,
+    "K/D": 0.94,
+    "Total Damage": 21366
+  },
+  {
+    "Agent": "Yoru",
+    "Picks": 8,
+    "Win Rate %": 37.5,
+    "Total Kills": 144,
+    "Avg Kills": 18.0,
+    "K/D": 1.25,
+    "Total Damage": 26694
+  },
+  {
+    "Agent": "Brimstone",
+    "Picks": 7,
+    "Win Rate %": 57.1,
+    "Total Kills": 86,
+    "Avg Kills": 12.3,
+    "K/D": 0.99,
+    "Total Damage": 15563
+  },
+  {
+    "Agent": "Clove",
+    "Picks": 6,
+    "Win Rate %": 33.3,
+    "Total Kills": 68,
+    "Avg Kills": 11.3,
+    "K/D": 0.73,
+    "Total Damage": 12332
+  },
+  {
+    "Agent": "Vyse",
+    "Picks": 5,
+    "Win Rate %": 40.0,
+    "Total Kills": 66,
+    "Avg Kills": 13.2,
+    "K/D": 1.05,
+    "Total Damage": 11367
+  },
+  {
+    "Agent": "Jett",
+    "Picks": 5,
+    "Win Rate %": 40.0,
+    "Total Kills": 77,
+    "Avg Kills": 15.4,
+    "K/D": 0.95,
+    "Total Damage": 14010
+  },
+  {
+    "Agent": "Sova",
+    "Picks": 5,
+    "Win Rate %": 40.0,
+    "Total Kills": 63,
+    "Avg Kills": 12.6,
+    "K/D": 0.84,
+    "Total Damage": 13249
+  },
+  {
+    "Agent": "Astra",
+    "Picks": 5,
+    "Win Rate %": 60.0,
+    "Total Kills": 80,
+    "Avg Kills": 16.0,
+    "K/D": 1.16,
+    "Total Damage": 13757
+  },
+  {
+    "Agent": "Deadlock",
+    "Picks": 4,
+    "Win Rate %": 25.0,
+    "Total Kills": 57,
+    "Avg Kills": 14.2,
+    "K/D": 1.21,
+    "Total Damage": 9091
+  },
+  {
+    "Agent": "Waylay",
+    "Picks": 4,
+    "Win Rate %": 50.0,
+    "Total Kills": 69,
+    "Avg Kills": 17.2,
+    "K/D": 1.38,
+    "Total Damage": 12532
+  },
+  {
+    "Agent": "Cypher",
+    "Picks": 4,
+    "Win Rate %": 50.0,
+    "Total Kills": 53,
+    "Avg Kills": 13.2,
+    "K/D": 1.08,
+    "Total Damage": 9838
+  },
+  {
+    "Agent": "Veto",
+    "Picks": 2,
+    "Win Rate %": 0.0,
+    "Total Kills": 24,
+    "Avg Kills": 12.0,
+    "K/D": 0.69,
+    "Total Damage": 4770
+  },
+  {
+    "Agent": "Gekko",
+    "Picks": 2,
+    "Win Rate %": 0.0,
+    "Total Kills": 12,
+    "Avg Kills": 6.0,
+    "K/D": 0.41,
+    "Total Damage": 2781
+  },
+  {
+    "Agent": "Reyna",
+    "Picks": 2,
+    "Win Rate %": 0.0,
+    "Total Kills": 17,
+    "Avg Kills": 8.5,
+    "K/D": 0.57,
+    "Total Damage": 3112
+  },
+  {
+    "Agent": "Breach",
+    "Picks": 2,
+    "Win Rate %": 0.0,
+    "Total Kills": 21,
+    "Avg Kills": 10.5,
+    "K/D": 0.68,
+    "Total Damage": 3854
+  },
+  {
+    "Agent": "Sage",
+    "Picks": 1,
+    "Win Rate %": 100.0,
+    "Total Kills": 18,
+    "Avg Kills": 18.0,
+    "K/D": 1.2,
+    "Total Damage": 2725
+  },
+  {
+    "Agent": "KAY/O",
+    "Picks": 1,
+    "Win Rate %": 100.0,
+    "Total Kills": 17,
+    "Avg Kills": 17.0,
+    "K/D": 1.0,
+    "Total Damage": 3639
+  },
+  {
+    "Agent": "Neon",
+    "Picks": 1,
+    "Win Rate %": 0.0,
+    "Total Kills": 4,
+    "Avg Kills": 4.0,
+    "K/D": 0.22,
+    "Total Damage": 1342
+  },
+  {
+    "Agent": "Tejo",
+    "Picks": 1,
+    "Win Rate %": 0.0,
+    "Total Kills": 10,
+    "Avg Kills": 10.0,
+    "K/D": 0.56,
+    "Total Damage": 1772
+  }
+]
